@@ -5,9 +5,9 @@ const About = () => {
     <section className='page-section' id='about'>
       <div className='container'>
         <div className='text-center'>
-          <h2 className='section-heading text-uppercase'>About</h2>
+          <h2 className='section-heading text-uppercase'>Airline Solutions</h2>
           <h3 className='section-subheading text-muted'>
-            Lorem ipsum dolor sit amet consectetur.
+            AriesAir.
           </h3>
         </div>
         <ul className='timeline'>
