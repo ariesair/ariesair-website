@@ -7,7 +7,7 @@ const Header = () => {
 
   return (
     <header className='masthead'>
-      <div className='container col-xl-10 col-xxl-8 px-4 py-5'>
+      <div className='container col-xl-10 col-xxl-8 px-1 py-1'>
         <div className='row align-items-center g-lg-5 py-5'>
           <div className='col-lg-7 text-center text-lg-start'>
             <h1 className='display-4 fw-bold lh-1 mb-3'>{pageTitle}</h1>
