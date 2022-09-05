@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import '../styles/globals.css'
+import '../styles/custom.css'
 import Script from 'next/head'
 import Layout from '../layout/Layout'
 
