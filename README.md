@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+## Aries Air v2.0
 
-Template Name: Logis
-Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+Preview Link: https://ariesair.github.io/ariesair-website
+
+
